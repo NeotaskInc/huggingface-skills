@@ -20,7 +20,7 @@ The `hf-cli` skill in this repository is also available through:
 
 ## Installation
 
-Hugging Face skills are compatible with Claude Code, Codex, Gemini CLI, and Cursor.
+Hugging Face skills are compatible with Claude Code, Codex, Gemini CLI, Cursor, and Neotask.
 
 ### Claude Code
 
@@ -81,6 +81,14 @@ For contributors, regenerate manifests with:
 
 ```bash
 ./scripts/publish.sh
+```
+
+### Neotask
+
+Install from [Neotask Construct](https://construct.neotask.ai/p/huggingface-skills):
+
+```
+neotask construct install huggingface-skills
 ```
 
 ## Skills
