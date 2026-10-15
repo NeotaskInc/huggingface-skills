@@ -91,6 +91,12 @@ Install from [Neotask Construct](https://construct.neotask.ai/p/huggingface-skil
 neotask construct install huggingface-skills
 ```
 
+Individual skills, including `hf-cli`, are also on Neotask Construct under their own names (`transformers-js` is `huggingface-transformers-js`); browse them on the [Hugging Face publisher page](https://construct.neotask.ai/u/huggingface). Install one by name:
+
+```
+neotask construct install hf-cli
+```
+
 ## Skills
 
 This repository contains a few skills to get you started. You can also contribute your own skills to the repository.
